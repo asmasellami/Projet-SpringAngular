@@ -1,0 +1,5 @@
+package com.asma.produits.service;
+
+public interface ProduitService {
+
+}

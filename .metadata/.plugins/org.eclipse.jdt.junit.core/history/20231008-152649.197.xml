@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ProduitsApplicationTests.findByCategorieIdCat" project="produits" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.asma.produits.ProduitsApplicationTests" time="0.587" displayname="ProduitsApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.asma.produits.ProduitsApplicationTests]">
+    <testcase name="findByCategorieIdCat" classname="com.asma.produits.ProduitsApplicationTests" time="0.587" displayname="findByCategorieIdCat()" uniqueid="[engine:junit-jupiter]/[class:com.asma.produits.ProduitsApplicationTests]/[method:findByCategorieIdCat()]"/>
+  </testsuite>
+</testrun>
